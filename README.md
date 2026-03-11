@@ -1,5 +1,5 @@
 # Hi, I'm Veda R 👋
-### AI Engineer · Python Backend · Freelance AI & Blockchain Developer
+### AI Engineer · Python Backend · AI/ML & Blockchain Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--mono.vercel.app-black?style=for-the-badge&logo=vercel)](https://reachout-to-mono.vercel.app)
 [![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
@@ -8,12 +8,12 @@
 
 ---
 
-## 🔍 Freelance AI & Blockchain Developer | Open to Work
+## 🧑‍💻 AI/ML & Blockchain Enthusiast | Python Backend Engineer
 
-> **Freelance AI developer** and **freelance blockchain developer** based in Bengaluru, India — available for remote contracts globally.  
-> I build production-grade **AI systems**, **Python backends**, **RAG pipelines**, **LLM integrations**, and **blockchain/Web3 solutions**.
+> Software engineer based in Bengaluru, India — passionate about **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.  
+> I build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
 
-If you're searching for a **freelance AI engineer**, **freelance machine learning developer**, **freelance LLM developer**, **freelance Python backend developer**, or a **freelance blockchain developer** — you're in the right place.
+Deeply interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — always building, always learning.
 
 ---
 
@@ -75,21 +75,7 @@ Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
 
 ---
 
-## 💼 Freelance Services
-
-| Service | Description |
-|---|---|
-| 🤖 **AI / LLM Integration** | RAG pipelines, chatbots, document Q&A, LangChain agents |
-| 🐍 **Python Backend APIs** | FastAPI/Flask REST APIs, async systems, production-ready |
-| 📊 **Big Data Pipelines** | PySpark ETL, distributed ML, Spark data engineering |
-| ⛓️ **Blockchain / Web3** | Smart contract integration, DeFi tooling, Web3 backends |
-| ☁️ **Cloud Deployment** | AWS, Docker, CI/CD, scalable infra setup |
-
-**Available for:** Remote freelance · Short-term contracts · Long-term engagements · Consulting
-
----
-
-## 📬 Hire Me
+## 🔗 Let's Connect
 
 | Platform | Link |
 |---|---|
@@ -109,11 +95,11 @@ Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
 
 ## 🏷️ Keywords
 
-`freelance AI developer` `freelance blockchain developer` `freelance Python developer` `freelance LLM engineer` `freelance machine learning engineer` `AI engineer for hire` `blockchain developer for hire` `RAG pipeline developer` `LangChain developer` `OpenAI API developer` `FastAPI developer` `PySpark developer` `remote AI freelancer` `remote blockchain freelancer` `hire AI engineer` `hire blockchain developer` `Web3 freelancer` `smart contract developer` `Python backend freelancer` `Bengaluru AI developer`
+`AI ML enthusiast` `blockchain enthusiast` `AI engineer` `machine learning engineer` `LLM developer` `Python backend developer` `RAG pipeline` `LangChain developer` `OpenAI API` `FastAPI developer` `PySpark developer` `blockchain developer` `Web3 developer` `smart contract developer` `NLP engineer` `Transformer models` `vector database` `AI systems` `deep learning enthusiast` `Bengaluru AI engineer`
 
 ---
 
 <p align="center">
-  <i>Open to freelance contracts · Remote · Worldwide</i><br/>
+  <i>Bengaluru, India · Open to collaborations & opportunities</i><br/>
   <b>Let's build something production-ready.</b>
 </p>
