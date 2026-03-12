@@ -84,14 +84,6 @@ Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
 | 📸 Instagram | [@oceanfinned](https://instagram.com/oceanfinned) |
 | 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno) |
 
----
-
-## 📈 GitHub Stats
-
-![Veda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedaR&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedaR&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 🏷️ Keywords
 
