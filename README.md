@@ -1,5 +1,5 @@
 # Hi, I'm Veda R 👋
-### AI Engineer · Python Backend · AI/ML & Blockchain Enthusiast
+### AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML profile.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--mono.vercel.app-black?style=for-the-badge&logo=vercel)](https://reachout-to-mono.vercel.app)
 [![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
@@ -10,14 +10,14 @@
 
 ## 🧑‍💻 AI/ML & Blockchain Enthusiast | Python Backend Engineer
 
-> Software engineer based in Bengaluru, India — passionate about **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.  
-> I build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
+>  based in Bengaluru, India — currently working with and exploring  **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.  
+> I want to build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
 
-Deeply interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — always building, always learning.
+ interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — These concepts spark research interest in me.
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Want to  Build
 
 ```
 AI Systems          →   RAG pipelines · LLM APIs · LangChain agents · Vector search
@@ -48,7 +48,7 @@ Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Projects (Vibe Coded)
 
 ### 🔷 [Document Q&A RAG API](https://github.com/vedaR)
 > **Production-grade REST API** for document intelligence — sole engineer across all layers.
