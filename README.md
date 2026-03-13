@@ -1,5 +1,5 @@
 # Hi, I'm Veda R 👋
-### AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML profile.
+### AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML professional  profile for industry.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--mono.vercel.app-black?style=for-the-badge&logo=vercel)](https://reachout-to-mono.vercel.app)
 [![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
