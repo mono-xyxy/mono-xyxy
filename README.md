@@ -13,7 +13,7 @@
 >  based in Bengaluru, India — currently working with and exploring  **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.  
 > I want to build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
 
- interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — These concepts spark research interest in me.
+ interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — These concepts spark curiosity in me.
 
 ---
 
