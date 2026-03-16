@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 AI/ML & Blockchain Enthusiast | Wants to work as AI backend engineer
+## 🧑‍💻 AI/ML & Blockchain Enthusiast | Wants to work as AI backend engineer And Data analyst to gain relevant experience 
 
 >  based in Bengaluru, India — currently working with and exploring  **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.  
 > I want to build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
