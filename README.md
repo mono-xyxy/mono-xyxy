@@ -1,23 +1,24 @@
 # Hi, I'm Veda R 👋
-### Data, AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML professional  profile for industry.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--mono.vercel.app-black?style=for-the-badge&logo=vercel)](https://reachout-to-mono.vercel.app)
-[![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-oceanfinned-purple?style=for-the-badge&logo=instagram)](https://instagram.com/oceanfinned)
-[![Twitter/X](https://img.shields.io/badge/X-@ezzzuno-black?style=for-the-badge&logo=x)](https://x.com/ezzzuno)
+### Data, AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML professional profile for industry.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--mono.vercel.app-black?style=for-the-badge\&logo=vercel)](https://reachout-to-mono.vercel.app)
+[![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:vedawork2003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-oceanfinned-purple?style=for-the-badge\&logo=instagram)](https://instagram.com/oceanfinned)
+[![Twitter/X](https://img.shields.io/badge/X-@ezzzuno-black?style=for-the-badge\&logo=x)](https://x.com/ezzzuno)
 
 ---
 
-## 🧑‍💻 AI/ML & Blockchain Enthusiast | Wants to work as AI backend engineer And Data analyst to gain relevant experience 
+## 🧑‍💻 AI/ML & Blockchain Enthusiast | Wants to work as AI backend engineer And Data analyst to gain relevant experience
 
->  based in Bengaluru, India — currently working with and exploring  **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.  
+> based in Bengaluru, India — currently working with and exploring **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.
 > I want to build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
 
- interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — These concepts spark curiosity in me.
+interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — these concepts spark curiosity in me.
 
 ---
 
-## 🚀 What I Want to  Build
+## 🚀 What I Want to Build
 
 ```
 AI Systems          →   RAG pipelines · LLM APIs · LangChain agents · Vector search
@@ -48,50 +49,67 @@ Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
 
 ---
 
-## 🛠️ Featured Projects (Vibe Coded)
+## 🛠️ Featured Projects
 
-### 🔷 [Document Q&A RAG API](https://github.com/vedaR)
-> **Production-grade REST API** for document intelligence — sole engineer across all layers.
+### 📊 Ecommerce EDA & Dashboard
 
-- RAG pipeline: LangChain + OpenAI embeddings + pgvector with cosine similarity retrieval
-- **~60% reduction in LLM API costs** via Redis caching (SHA-256 keyed, 1hr TTL)
-- Async FastAPI with API-key auth, input validation, Swagger docs auto-generated
-- Full Docker Compose stack deployed to **AWS EC2 + S3 + RDS**
-- GitHub Actions CI/CD with automated pytest on every push
+Ecommerce dataset analysis project.
 
-`FastAPI` `LangChain` `OpenAI` `pgvector` `Redis` `PostgreSQL` `AWS` `Docker`
+Repository contains:
 
----
+* raw ecommerce datasets (orders, customers, products, reviews, sellers)
+* Jupyter notebooks used for cleaning and analysis
+* SQL queries for analytics
+* Streamlit dashboard
 
-### 🌦️ [AI Predictive Weather Forecaster](https://reachout-to-mono.vercel.app) · [Live Demo](https://reachout-to-mono.vercel.app)
-> **End-to-end Big Data → ML → deployed web app** pipeline.
+Data is cleaned and merged in notebooks and saved as a processed dataset.
 
-- PySpark distributed synthetic data engine — scalable from **500K rows to billions on HDFS**
-- Ensemble of **5 Random Forest models** bootstrapped into Flask for zero-latency inference
-- Live Open-Meteo API integration + Delta Difference Analyzer for real-world deviation tracking
-- **Autochromatic UI** — full colour palette shifts dynamically by city latitude + computed season
+Some columns created during cleaning:
 
-`PySpark` `Apache Spark` `scikit-learn` `Flask` `Open-Meteo API` `HDFS` `YARN`
+* `order_month`
+* `delivery_days`
+* `revenue_per_order`
+* `late_delivery_flag`
+
+The dashboard shows:
+
+* monthly revenue trend
+* revenue by state
+* delivery time analysis
+* review score distribution
+* category revenue
+
+Dashboard also includes:
+
+* date range filter
+* product category filter
+
+Tech used:
+
+`Python` `Pandas` `SQL` `Plotly` `Streamlit` `Matplotlib`
 
 ---
 
 ## 🔗 Let's Connect
 
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | xyz |
-| 📧 Email | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
-| 📸 Instagram | [@oceanfinned](https://instagram.com/oceanfinned) |
-| 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno) |
+| Platform       | Link                                                    |
+| -------------- | ------------------------------------------------------- |
+| 🌐 Portfolio   |                    |
+| 📧 Email       | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
+| 📸 Instagram   | [@oceanfinned](https://instagram.com/oceanfinned)       |
+| 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       |
 
+---
 
 ## 🏷️ Keywords
 
-`AI ML enthusiast` `blockchain enthusiast` `AI engineer` `machine learning engineer` `LLM developer` `Python backend developer` `RAG pipeline` `LangChain developer` `OpenAI API` `FastAPI developer` `PySpark developer` `blockchain developer` `Web3 developer` `smart contract developer` `NLP engineer` `Transformer models` `vector database` `AI systems` `deep learning enthusiast` `Bengaluru AI engineer`
+`AI ML enthusiast` `data analyst` `python developer` `machine learning engineer`
+`EDA projects` `streamlit dashboard` `SQL analytics` `AI engineer`
+`PySpark developer` `blockchain developer` `Web3 developer`
 
 ---
 
 <p align="center">
   <i>Bengaluru, India · Open to collaborations & opportunities</i><br/>
-  <b>Let's build something production-ready.</b>
+  <b>Learning and building projects.</b>
 </p>
