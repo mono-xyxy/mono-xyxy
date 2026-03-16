@@ -79,7 +79,7 @@ Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [reachout-to-mono.vercel.app](https://reachout-to-mono.vercel.app) |
+| 🌐 Portfolio | xyz |
 | 📧 Email | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
 | 📸 Instagram | [@oceanfinned](https://instagram.com/oceanfinned) |
 | 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno) |
