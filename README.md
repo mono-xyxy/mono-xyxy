@@ -94,7 +94,7 @@ Tech used:
 
 | Platform       | Link                                                    |
 | -------------- | ------------------------------------------------------- |
-| 🌐 Portfolio   |                    |
+| 🌐 Portfolio   |  https://portfolio-main-jmx4.vercel.app                 |
 | 📧 Email       | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
 | 📸 Instagram   | [@oceanfinned](https://instagram.com/oceanfinned)       |
 | 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       |
