@@ -2,7 +2,7 @@
 
 ### Data, AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML professional profile for industry.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-reachout--to--mono.vercel.app-black?style=for-the-badge\&logo=vercel)](https://reachout-to-mono.vercel.app)
+[![Portfolio](https://portfolio-main-nvxs.vercel.app/)](https://portfolio-main-nvxs.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:vedawork2003@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-oceanfinned-purple?style=for-the-badge\&logo=instagram)](https://instagram.com/oceanfinned)
 [![Twitter/X](https://img.shields.io/badge/X-@ezzzuno-black?style=for-the-badge\&logo=x)](https://x.com/ezzzuno)
@@ -94,7 +94,7 @@ Tech used:
 
 | Platform       | Link                                                    |
 | -------------- | ------------------------------------------------------- |
-| 🌐 Portfolio   |  https://portfolio-main-jmx4.vercel.app                 |
+| 🌐 Portfolio   |  https://portfolio-main-nvxs.vercel.app/                |
 | 📧 Email       | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
 | 📸 Instagram   | [@oceanfinned](https://instagram.com/oceanfinned)       |
 | 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       |
