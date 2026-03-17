@@ -2,10 +2,10 @@
 
 ### Data, AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML professional profile for industry.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-main-nvxs.vercel.app)](https://portfolio-main-nvxs.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:vedawork2003@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-oceanfinned-purple?style=for-the-badge\&logo=instagram)](https://instagram.com/oceanfinned)
-[![Twitter/X](https://img.shields.io/badge/X-@ezzzuno-black?style=for-the-badge\&logo=x)](https://x.com/ezzzuno)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nvxs.vercel.app-black?style=for-the-badge&logo=vercel)](https://portfolio-main-nvxs.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-oceanfinned-purple?style=for-the-badge&logo=instagram)](https://instagram.com/oceanfinned)
+[![Twitter/X](https://img.shields.io/badge/X-@ezzzuno-black?style=for-the-badge&logo=x)](https://x.com/ezzzuno)
 
 ---
 
