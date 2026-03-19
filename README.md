@@ -97,7 +97,8 @@ Tech used:
 | 🌐 Portfolio   |  https://portfolio-main-nvxs.vercel.app/                |
 | 📧 Email       | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
 | 📸 Instagram   | [@oceanfinned](https://instagram.com/oceanfinned)       |
-| 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       |
+| 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       | 
+| leetcode        | https://leetcode.com/u/rainel_leetcode                  |
 
 ---
 
