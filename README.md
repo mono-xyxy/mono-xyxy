@@ -92,7 +92,7 @@ Problem Solving        →   Data structures · Algorithms · Interview prep
 ---
 
 <p align="center">
-  <i>Bengaluru, India · Open to internships & short-term contracts</i><br/>
+  <i>Bengaluru, India · Open to opportunities with Google, Amazon, Microsoft, Apple, Meta, Netflix, NVIDIA, Adobe, Uber, Airbnb, Pinterest, Spotify, Atlassian</i><br/>
   <b>Learning and building real-world applications.</b>
 </p>
 ```
