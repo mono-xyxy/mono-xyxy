@@ -1,92 +1,74 @@
+Nice — adding analytics is exactly what makes a profile feel *alive*. But don’t just dump every badge you see; a clean, intentional set looks way more professional.
+
+Here’s your upgraded **README.md with cool analytics + minimal clutter + strong signal** 👇
+
+
 # Hi, I'm Veda R 👋
 
-### Data, AI ,python ,linux ,AI/ML & Blockchain Enthusiast currently building My AI ML professional profile for industry.
+### Frontend & Mobile Developer | Angular Developer | Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nvxs.vercel.app-black?style=for-the-badge&logo=vercel)](https://portfolio-main-nvxs.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel)](#)
 [![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-oceanfinned-purple?style=for-the-badge&logo=instagram)](https://instagram.com/oceanfinned)
 [![Twitter/X](https://img.shields.io/badge/X-@ezzzuno-black?style=for-the-badge&logo=x)](https://x.com/ezzzuno)
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mono-xyxy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono-xyxy&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mono-xyxy&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
 ---
 
-## 🧑‍💻 AI/ML & Blockchain Enthusiast | Wants to work as AI backend engineer And Data analyst to gain relevant experience
+## 🧑‍💻 Developer focused on building real-world applications
 
-> based in Bengaluru, India — currently working with and exploring **AI systems**, **machine learning**, **Python backends**, and **blockchain/Web3 technology**.
-> I want to build production-grade **RAG pipelines**, **LLM integrations**, **Big Data systems**, and **Web3 solutions** from scratch.
+> based in Bengaluru, India — currently working with **Angular** and building frontend applications.  
+> I have experience across **React**, **Flutter**, **Jetpack Compose**, and **Android development** through internships and short-term contracts.
 
-interested in **AI/ML engineering**, **LLM applications**, **blockchain development**, and **distributed systems** — these concepts spark curiosity in me.
+I enjoy building **clean UIs**, understanding systems deeply, and solving problems using logic.
 
 ---
 
-## 🚀 What I Want to Build
+## 🚀 What I Want to Work On
 
 ```
-AI Systems          →   RAG pipelines · LLM APIs · LangChain agents · Vector search
-Python Backend      →   FastAPI · Flask · Django · Async · REST API design
-Big Data            →   Apache Spark · PySpark · Distributed ML pipelines
-Blockchain / Web3   →   Smart contracts · DeFi tooling · Web3 integrations
-Cloud & Infra       →   AWS (EC2, S3, RDS, Lambda) · Docker · CI/CD · GCP
+
+Frontend Development   →   Angular · React · UI systems · Component architecture
+Mobile Development     →   Flutter · Jetpack Compose · Android apps
+Backend Basics         →   REST APIs · Integration · Debugging systems
+Problem Solving        →   Data structures · Algorithms · Interview prep
+
 ```
 
 ---
 
 ## 🧠 Core Stack
 
-**AI / ML**
-`LLMs` `LangChain` `OpenAI API` `HuggingFace` `Transformers` `RAG` `pgvector` `Pinecone` `NLP` `scikit-learn`
+**Frontend**  
+`Angular` `React` `HTML` `CSS` `JavaScript`
 
-**Backend**
-`Python` `FastAPI` `Flask` `Django` `PostgreSQL` `Redis` `SQLAlchemy` `REST APIs` `Async Python`
+**Mobile**  
+`Flutter` `Jetpack Compose` `Android Development`
 
-**Big Data**
-`Apache Spark` `PySpark` `HDFS` `YARN` `PyArrow` `Pandas`
+**Backend / Tools**  
+`Python` (for problem solving & interviews)  
+`REST APIs` `Linux` `Git`
 
-**Cloud & DevOps**
-`AWS` `Docker` `Docker Compose` `GitHub Actions` `Linux` `GCP`
+**Languages (Past Exposure)**  
+`C++` `Java`
 
-**Other**
-`C++` `Dart` `Flutter` `n8n` `Git`
 
----
 
-## 🛠️ Featured Projects
 
-### 📊 Ecommerce EDA & Dashboard
+## 🔥 Activity Graph
 
-Ecommerce dataset analysis project.
-
-Repository contains:
-
-* raw ecommerce datasets (orders, customers, products, reviews, sellers)
-* Jupyter notebooks used for cleaning and analysis
-* SQL queries for analytics
-* Streamlit dashboard
-
-Data is cleaned and merged in notebooks and saved as a processed dataset.
-
-Some columns created during cleaning:
-
-* `order_month`
-* `delivery_days`
-* `revenue_per_order`
-* `late_delivery_flag`
-
-The dashboard shows:
-
-* monthly revenue trend
-* revenue by state
-* delivery time analysis
-* review score distribution
-* category revenue
-
-Dashboard also includes:
-
-* date range filter
-* product category filter
-
-Tech used:
-
-`Python` `Pandas` `SQL` `Plotly` `Streamlit` `Matplotlib`
+[![Veda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mono-xyxy&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -94,23 +76,26 @@ Tech used:
 
 | Platform       | Link                                                    |
 | -------------- | ------------------------------------------------------- |
-| 🌐 Portfolio   |  https://portfolio-main-nvxs.vercel.app/                |
+| 🌐 Portfolio   | Coming Soon                                             |
 | 📧 Email       | [vedawork2003@gmail.com](mailto:vedawork2003@gmail.com) |
 | 📸 Instagram   | [@oceanfinned](https://instagram.com/oceanfinned)       |
-| 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       | 
-| leetcode        | https://leetcode.com/u/rainel_leetcode                  |
+| 🐦 X / Twitter | [@ezzzuno](https://x.com/ezzzuno)                       |
+| leetcode       | https://leetcode.com/u/rainel_leetcode                  |
 
 ---
 
 ## 🏷️ Keywords
 
-`AI ML enthusiast` `data analyst` `python developer` `machine learning engineer`
-`EDA projects` `streamlit dashboard` `SQL analytics` `AI engineer`
-`PySpark developer` `blockchain developer` `Web3 developer`
+`frontend developer` `angular developer` `flutter developer` `react developer`  
+`android developer` `problem solver` `python for interviews`
 
 ---
 
 <p align="center">
-  <i>Bengaluru, India · Open to collaborations & opportunities</i><br/>
-  <b>Learning and building projects.</b>
+  <i>Bengaluru, India · Open to internships & short-term contracts</i><br/>
+  <b>Learning and building real-world applications.</b>
 </p>
+```
+
+---
+y *“make it elite”* 😄
