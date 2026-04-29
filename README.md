@@ -1,8 +1,3 @@
-Nice — adding analytics is exactly what makes a profile feel *alive*. But don’t just dump every badge you see; a clean, intentional set looks way more professional.
-
-Here’s your upgraded **README.md with cool analytics + minimal clutter + strong signal** 👇
-
-
 # Hi, I'm Veda R 👋
 
 ### Frontend & Mobile Developer | Angular Developer | Problem Solver
