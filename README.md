@@ -1,6 +1,6 @@
 # Hi, I'm Veda R 👋
 
-### Frontend & Mobile Developer | Angular Developer | Problem Solver
+### Frontend Frameworks | Backend Frameworks
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel)](#)
 [![Email](https://img.shields.io/badge/Email-vedawork2003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vedawork2003@gmail.com)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 Developer focused on building real-world applications
+## 🧑‍💻 Into software development
 
 > based in Bengaluru, India — currently working with **Angular** and building frontend applications.  
 > I have experience across **React**, **Flutter**, **Jetpack Compose**, and **Android development** through internships and short-term contracts.
