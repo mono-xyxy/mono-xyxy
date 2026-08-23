@@ -50,7 +50,6 @@ Currently looking for **full-time Software Engineer opportunities** where I can 
 
 * Resume → **https://drive.google.com/file/d/1CeyhRSO6WUwDg8-JrkAH_kCkILFgmfRd/view?usp=sharing**
 * Email → [rveda649@gmail.com](mailto:rveda649@gmail.com)
-* GitHub → **[GITHUB LINK HERE]**
 * Instagram → @drez_8080
 * X / Twitter → @ezzzuno
 * LeetCode → rainel_leetcode
